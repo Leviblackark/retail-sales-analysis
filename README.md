@@ -58,3 +58,11 @@ flowchart TD
 
 
 In progress - Initial project setup and dataset preparation. SQL analysis, Python exploration, Excel reporting and Power BI dashboard development will be completed in subsequent stages 
+
+## License
+
+The original code and project documentation are licensed under the [MIT License](LICENSE.md).
+
+The Coffee Shop Sales dataset is provided by Maven Analytics and is designated Public Domain.
+
+Dataset source: [Maven Analytics – Coffee Shop Sales](https://mavenanalytics.io/data-playground/coffee-shop-sales)
