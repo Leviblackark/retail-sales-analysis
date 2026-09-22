@@ -1,0 +1,18 @@
+# Normalise text files
+* text=auto
+
+# Keep code and documentation consistent
+*.py text eol=lf
+*.sql text eol=lf
+*.md text eol=lf
+*.gitignore text eol=lf
+*.gitattributes text eol=lf
+
+# Binary files
+*.xlsx binary
+*.xls binary
+*.pbix binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.pdf binary
