@@ -11,9 +11,3 @@ CREATE TABLE transactions (
     product_type TEXT,
     product_detail TEXT
 );
-
-PRAGMA table_info(transactions);
-
-SELECT name
-FROM sqlite_master
-WHERE type = 'table';
